@@ -16,7 +16,7 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row style={{justifyContent: "center"}}> 
-        <Col md="4" className="footer-body">
+        <Col md="3" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a

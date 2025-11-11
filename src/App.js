@@ -37,10 +37,10 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Route path="/Home" element={<Home />} />
-          <Route path="/project" element={<Projects />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="/project/ICM20948" element={<ICM20948 />} />
+          <Route path="/Project" element={<Projects />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Resume" element={<Resume />} />
+          <Route path="/Project/ICM20948" element={<ICM20948 />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

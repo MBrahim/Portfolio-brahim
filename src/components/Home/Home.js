@@ -49,7 +49,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <Home2 />
+    <Home2/>
 
       <Container>
         <Row style={{ paddingTop: "50px", paddingBottom: "80px" }}>
