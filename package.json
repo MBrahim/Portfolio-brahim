@@ -1,8 +1,8 @@
 {
-  "name": "portfolioo",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MBrahim.github.io/portfolioo/",
+  "homepage": "https://MBrahim.github.io/Portfolio/",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@react-three/drei": "^7.27.5",
