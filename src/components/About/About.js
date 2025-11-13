@@ -47,7 +47,7 @@ function About() {
           </h1>
           <Toolstack />
 
-          <Github />
+          {/* <Github /> */}
         </Container>
       </Container>
     </>

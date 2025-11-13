@@ -9,6 +9,7 @@ import {
 
 from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { SiUpwork } from "react-icons/si";
 
 function Footer() {
   let date = new Date();
@@ -46,6 +47,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.upwork.com/freelancers/~01fee375b9991d43f0"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <SiUpwork />
               </a>
             </li>
           </ul>
